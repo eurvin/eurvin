@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on expanding my knowledge of Software Engineering
-- 🌱 I’m currently learning  Rust, ink! and other stuff to build web3 apps
+- 🌱 I’m currently learning  Rust
 - 👯 I’m looking to collaborate on future projects. 
 - 💬 Ask me about anything, really.
-- 📫 How to reach me: check my e-mail or twitter in my profile
+- 📫 Reach me via twitter in my profile
 
 
 <!--
