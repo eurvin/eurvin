@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on expanding my knowledge of Software Engineering
-- 🌱 I’m currently learning  Rust
-- 👯 I’m looking to collaborate on future projects. 
-- 💬 Ask me about anything, really.
-- 📫 Reach out me via my mastodon profile or email
+- 🌱 I’m currently learning Rust and looking for new opportunities
+- 👯 I’m looking to collaborate on future projects.
+- 📫 Reach out to me via my mastodon profile or just via email
 
 
 <!--
