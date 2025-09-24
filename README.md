@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning  Rust
 - 👯 I’m looking to collaborate on future projects. 
 - 💬 Ask me about anything, really.
-- 📫 Reach me via twitter in my profile
+- 📫 Reach out me via my mastodon profile or email
 
 
 <!--
